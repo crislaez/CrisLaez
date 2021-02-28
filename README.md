@@ -59,7 +59,7 @@ I am a Web developer (Mean Stack) I have a higher degree in web application deve
 
 </div>
 <hr/>
-
+ 
 ## Contact me:
 
 crislaez30@gmail.com
