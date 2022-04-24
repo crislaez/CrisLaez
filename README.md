@@ -1,4 +1,4 @@
-# CrisLaez Web developer #JavaScript, #Angular, #Nodejs, #Ionic (Mean Stack)
+# CrisLaez Front-end developer #JavaScript, #Angular, #Nodejs, #Ionic (Mean Stack)
 
 ## About me:
 
