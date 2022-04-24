@@ -19,6 +19,7 @@ I am a Web developer (Mean Stack) I have a higher degree in web application deve
 [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]() [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit)]() [![Express](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 <!-- [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() -->
 
+ ### Other
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 
 [![Npm](https://img.shields.io/npm/v/npm.svg?logo=npm&style=for-the-badge&logo=mongodb&logoColor=white)]()
@@ -31,11 +32,7 @@ I am a Web developer (Mean Stack) I have a higher degree in web application deve
 
 <div style="width:50%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/crislaez)
-
-[![Instgram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian_8_9/)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-pelaez-509945187/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/crislaez) [![Instgram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian_8_9/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-pelaez-509945187/)
 
 </div>
 <hr/>
