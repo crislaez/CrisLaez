@@ -5,7 +5,7 @@
 
 
 Hello, my name is Cristian Pelaez.
-I am a Web developer (Mean Stack) I have a higher degree in web application development since (2018-2021). Since then I have been making several personal projects that you can see on github, and working since February 2020.
+I am a Front-end developer, I have a higher degree in web application development since (2018-present). Since then I have been making several personal projects that you can see on github, and working since February 2020.
 <hr/>
 
 ## Skills:
