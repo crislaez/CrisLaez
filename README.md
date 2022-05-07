@@ -31,6 +31,12 @@ I am a Front-end developer, I have a higher degree in application development si
 </div>
 <hr/>
 
+## Projects:
+
+### FindAnime
+<img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg" />
+<img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg" />
+
 ## Find me at:
 
 <div style="width:50%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
