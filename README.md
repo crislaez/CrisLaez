@@ -34,8 +34,10 @@ I am a Front-end developer, I have a higher degree in application development si
 ## Projects:
 
 ### [AnimeFind](https://github.com/crislaez/animeFInd)
-![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg)
-![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg)
+<!-- ![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg)
+![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg) -->
+<img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg" alt="drawing" width="200"/>
 
 ### [PokePedia](https://github.com/crislaez/Pokepedia)
 ![Texto alternativo](https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_1.jpg)
