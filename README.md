@@ -45,7 +45,7 @@ I am a Front-end developer, I have a higher degree in application development si
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
 <img src="https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_1.jpg" alt="pokepedia_1" width="200"/>
 <img src="https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_2.jpg" alt="pokepedia_2" width="200"/>
-<img src="https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_3.jpg" alt="pokepedia_3" width="200"/>
+<img src="https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_8.jpg" alt="pokepedia_3" width="200"/>
 </div>
 
 ### [Mi Biblia](https://github.com/crislaez/MyBible)
