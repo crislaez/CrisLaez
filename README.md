@@ -33,10 +33,21 @@ I am a Front-end developer, I have a higher degree in application development si
 
 ## Projects:
 
-### FindAnime
+### [AnimeFind](https://github.com/crislaez/animeFInd)
 ![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg)
 ![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg)
 
+### [PokePedia](https://github.com/crislaez/Pokepedia)
+![Texto alternativo](https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_1.jpg)
+![Texto alternativo](https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_2.jpg)
+
+### [Mi Biblia](https://github.com/crislaez/MyBible)
+![Texto alternativo](https://github.com/crislaez/MyBible/blob/master/src/assets/images/foto_proyecto_3.PNG)
+![Texto alternativo](https://github.com/crislaez/MyBible/blob/master/src/assets/images/foto_proyecto_4.PNG)
+
+### [Pokemon Tcg Pro](https://github.com/crislaez/PokemonTcgPro)
+![Texto alternativo](https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_1.jpg)
+![Texto alternativo](https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_2.jpg)
 
 ## Find me at:
 
