@@ -36,26 +36,38 @@ I am a Front-end developer, I have a higher degree in application development si
 ### [AnimeFind](https://github.com/crislaez/animeFInd)
 <!-- ![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg)
 ![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg) -->
+<div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
 <img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg" alt="animeFind_1" width="200"/>
 <img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg" alt="animeFind_2" width="200"/>
+</div>
 
 ### [PokePedia](https://github.com/crislaez/Pokepedia)
 <!-- ![Texto alternativo](https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_1.jpg)
 ![Texto alternativo](https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_2.jpg) -->
+<div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
 <img src="https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_1.jpg" alt="pokepedia_1" width="200"/>
 <img src="https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_2.jpg" alt="pokepedia_2" width="200"/>
+</div>
 
 ### [Mi Biblia](https://github.com/crislaez/MyBible)
 <!-- ![Texto alternativo](https://github.com/crislaez/MyBible/blob/master/src/assets/images/foto_proyecto_3.PNG)
 ![Texto alternativo](https://github.com/crislaez/MyBible/blob/master/src/assets/images/foto_proyecto_4.PNG) -->
+<div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
 <img src="https://github.com/crislaez/MyBible/blob/master/src/assets/images/foto_proyecto_3.PNG" alt="miBilia_1" width="200"/>
 <img src="https://github.com/crislaez/MyBible/blob/master/src/assets/images/foto_proyecto_4.PNG" alt="miBilia_2" width="200"/>
+</div>
 
-<!-- ### [Pokemon Tcg Pro](https://github.com/crislaez/PokemonTcgPro)
-![Texto alternativo](https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_1.jpg)
+### [Pokemon Tcg Pro](https://github.com/crislaez/PokemonTcgPro)
+<!-- ![Texto alternativo](https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_1.jpg)
 ![Texto alternativo](https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_2.jpg) -->
+ <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
 <img src="https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_1.jpg" alt="pokemonTcgPro_1" width="200"/>
 <img src="https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_2.jpg" alt="pokemonTcgPro_2" width="200"/>
+</div>
+
+## Next projects:
+
+### Cripcoin
 
 ## Find me at:
 
