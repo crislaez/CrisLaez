@@ -38,12 +38,8 @@ I am a Front-end developer, I have a higher degree in application development si
 ![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg) -->
 <!-- <img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg" alt="animeFind_1" width="200"/>
 <img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg" alt="animeFind_2" width="200"/> -->
-```{r, out.width = '250px'}
-knitr::include_graphics('"https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg')
-```
-```{r, out.width = '250px'}
-knitr::include_graphics('https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg')
-```
+![figure description](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg){width=250}
+![figure description](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg){width=250}
 
 ### [PokePedia](https://github.com/crislaez/Pokepedia)
 <!-- ![Texto alternativo](https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_1.jpg)
