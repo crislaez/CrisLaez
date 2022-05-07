@@ -34,8 +34,9 @@ I am a Front-end developer, I have a higher degree in application development si
 ## Projects:
 
 ### FindAnime
-<img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg" />
-<img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg" />
+![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg)
+![Texto alternativo](https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg)
+
 
 ## Find me at:
 
