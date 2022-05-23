@@ -36,8 +36,8 @@ I am a Front-end developer, I have a higher degree in application development si
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
 <img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_1.jpg" alt="animeFind_1" width="200"/>
-<img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_2.jpg" alt="animeFind_3" width="200"/>
-<img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_3.jpg" alt="animeFind_4" width="200"/>
+<img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_3.jpg" alt="animeFind_3" width="200"/>
+<img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_4.jpg" alt="animeFind_4" width="200"/>
 </div>
 
 ### [AnimeFind](https://github.com/crislaez/animeFInd)
