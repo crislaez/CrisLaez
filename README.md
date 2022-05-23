@@ -32,6 +32,14 @@ I am a Front-end developer, I have a higher degree in application development si
 
 ## Projects:
 
+<!-- ### [Criptoin](https://github.com/crislaez/animeFInd)
+
+<div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
+<img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_1.jpg" alt="animeFind_1" width="200"/>
+<img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_2.jpg" alt="animeFind_2" width="200"/>
+<img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_3.jpg" alt="animeFind_3" width="200"/>
+</div> -->
+
 ### [AnimeFind](https://github.com/crislaez/animeFInd)
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
@@ -66,7 +74,7 @@ I am a Front-end developer, I have a higher degree in application development si
 
 ## Next projects:
 
-### Criptoin: Comming soon
+### QrLectoe: Comming soon
 
 ## Find me at:
 
