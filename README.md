@@ -74,7 +74,7 @@ I am a Front-end developer, I have a higher degree in application development si
 
 ## Next projects:
 
-### QrLectoe: Comming soon
+### StarWarsPedia: Comming soon
 
 ## Find me at:
 
