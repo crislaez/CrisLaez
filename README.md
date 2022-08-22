@@ -74,7 +74,7 @@ I am a Front-end developer, I have a higher degree in application development si
 
 ## Next projects:
 
-### StarWarsPedia: Comming soon
+### UniteDex: Comming soon
 
 ## Find me at:
 
