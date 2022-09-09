@@ -83,7 +83,7 @@ I am a Front-end developer, I have a higher degree in application development si
 
 ## Next projects:
 
-### ---: Comming soon
+### DataMagic: Comming soon
 
 ## Find me at:
 
