@@ -48,6 +48,14 @@ I am a Front-end developer, I have a higher degree in application development si
 <img src="https://github.com/crislaez/Pokepedia/blob/master/src/assets/images/pokepedia_8.jpg" alt="pokepedia_3" width="200"/>
 </div>
 
+### [Gamedex](https://github.com/crislaez/Gamedex)
+
+<div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
+<img src="https://github.com/crislaez/Gamedex/blob/master/src/assets/images/pokepedia_1.jpg" alt="gamedex" width="200"/>
+<img src="https://github.com/crislaez/Gamedex/blob/master/src/assets/images/pokepedia_2.jpg" alt="gamedex_2" width="200"/>
+<img src="https://github.com/crislaez/Gamedex/blob/master/src/assets/images/pokepedia_8.jpg" alt="gamedex_3" width="200"/>
+</div>
+
 ### [UniteDex](https://github.com/crislaez/UniteDex)
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
