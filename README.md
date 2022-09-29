@@ -40,7 +40,7 @@ I am a Front-end developer, I have a higher degree in application development si
 <img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_4.jpg" alt="criptoin_4" width="200"/>
 </div>
 
-### [ygodex](https://github.com/crislaez/YgoInfo)
+### [Ygodex](https://github.com/crislaez/YgoInfo)
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
 <img src="https://github.com/crislaez/YgoInfo/blob/master/src/assets/images/ygoInfo_1.jpg" alt="ygoInfo_1" width="200"/>
