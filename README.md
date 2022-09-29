@@ -35,9 +35,17 @@ I am a Front-end developer, I have a higher degree in application development si
 ### [Criptoin](https://github.com/crislaez/Criptoin)
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
-<img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_1.jpg" alt="animeFind_1" width="200"/>
-<img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_3.jpg" alt="animeFind_3" width="200"/>
-<img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_4.jpg" alt="animeFind_4" width="200"/>
+<img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_1.jpg" alt="criptoin_1" width="200"/>
+<img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_3.jpg" alt="criptoin_3" width="200"/>
+<img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_4.jpg" alt="criptoin_4" width="200"/>
+</div>
+
+### [ygodex](https://github.com/crislaez/YgoInfo)
+
+<div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
+<img src="https://github.com/crislaez/YgoInfo/blob/master/src/assets/images/ygoInfo_1.jpg" alt="ygoInfo_1" width="200"/>
+<img src="https://github.com/crislaez/YgoInfo/blob/master/src/assets/images/ygoInfo_3.jpg" alt="ygoInfo_3" width="200"/>
+<img src="https://github.com/crislaez/YgoInfo/blob/master/src/assets/images/ygoInfo_4.jpg" alt="ygoInfo_4" width="200"/>
 </div>
 
 ### [PokePedia](https://github.com/crislaez/Pokepedia)
