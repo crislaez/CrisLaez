@@ -92,8 +92,8 @@ I am a Front-end developer, I have a higher degree in application development si
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
 <img src="https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_2.jpg" alt="pokemonTcgPro_2" width="200"/>
-<img src="https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_3.jpg" alt="pokemonTcgPro_3" width="200"/>
 <img src="https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_4.jpg" alt="pokemonTcgPro_4" width="200"/>
+<img src="https://github.com/crislaez/PokemonTcgPro/blob/master/src/assets/images/pokemonTcgPro_3.jpg" alt="pokemonTcgPro_3" width="200"/>
 </div>
 
 
