@@ -51,9 +51,9 @@ I am a Front-end developer, I have a higher degree in application development si
 ### [Movieset](https://github.com/crislaez/Movieset)
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
-<img src="https://github.com/crislaez/Movieset/blob/master/src/assets/images/movieset_1.jpg" alt="movieset_1" width="200"/>
-<img src="https://github.com/crislaez/Movieset/blob/master/src/assets/images/movieset_2.jpg" alt="movieset_2" width="200"/>
-<img src="https://github.com/crislaez/Movieset/blob/master/src/assets/images/movieset_6.jpg" alt="movieset_6" width="200"/>
+<img src="https://github.com/crislaez/Movieset/blob/master/src/assets/images/movieset_1.png" alt="movieset_1" width="200"/>
+<img src="https://github.com/crislaez/Movieset/blob/master/src/assets/images/movieset_2.png" alt="movieset_2" width="200"/>
+<img src="https://github.com/crislaez/Movieset/blob/master/src/assets/images/movieset_6.png" alt="movieset_6" width="200"/>
 </div>
 
 ### [Euskalfic](https://github.com/crislaez/Euskalfic)
