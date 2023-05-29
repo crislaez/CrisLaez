@@ -67,9 +67,9 @@ I am a Front-end developer, I have a higher degree in application development si
 ### [Ygodex](https://github.com/crislaez/YGO_Dex)
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
-<img src="https://github.com/crislaez/YGO_Dex/blob/master/src/assets/images/ygo_dex_1.jpg" alt="ygo_dex_1" width="200"/>
-<img src="https://github.com/crislaez/YGO_Dex/blob/master/src/assets/images/ygo_dex_6.jpg" alt="ygo_dex_6" width="200"/>
-<img src="https://github.com/crislaez/YGO_Dex/blob/master/src/assets/images/ygo_dex_7.jpg" alt="ygoInfo_7" width="200"/>
+<img src="https://github.com/crislaez/YGO_Dex/blob/master/src/assets/images/ygo_dex_1.png" alt="ygo_dex_1" width="200"/>
+<img src="https://github.com/crislaez/YGO_Dex/blob/master/src/assets/images/ygo_dex_6.png" alt="ygo_dex_6" width="200"/>
+<img src="https://github.com/crislaez/YGO_Dex/blob/master/src/assets/images/ygo_dex_7.png" alt="ygoInfo_7" width="200"/>
 </div>
 
 ### [PokePedia](https://github.com/crislaez/Pokepedia)
