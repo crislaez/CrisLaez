@@ -64,12 +64,12 @@ I am a Front-end developer, I have a higher degree in application development si
 <img src="https://github.com/crislaez/Euskalfic/blob/master/src/assets/images/euskalfic_4.jpg" alt="euskalfic_4" width="200"/>
 </div>
 
-### [Ygodex](https://github.com/crislaez/YgoInfo)
+### [Ygodex](https://github.com/crislaez/YGO_Dex)
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
-<img src="https://github.com/crislaez/YgoInfo/blob/master/src/assets/images/ygoInfo_1.jpg" alt="ygoInfo_1" width="200"/>
-<img src="https://github.com/crislaez/YgoInfo/blob/master/src/assets/images/ygoInfo_2.jpg" alt="ygoInfo_2" width="200"/>
-<img src="https://github.com/crislaez/YgoInfo/blob/master/src/assets/images/ygoInfo_4.jpg" alt="ygoInfo_4" width="200"/>
+<img src="https://github.com/crislaez/YGO_Dex/blob/master/src/assets/images/ygo_dex_1.jpg" alt="ygo_dex_1" width="200"/>
+<img src="https://github.com/crislaez/YGO_Dex/blob/master/src/assets/images/ygo_dex_6.jpg" alt="ygo_dex_6" width="200"/>
+<img src="https://github.com/crislaez/YGO_Dex/blob/master/src/assets/images/ygo_dex_7.jpg" alt="ygoInfo_7" width="200"/>
 </div>
 
 ### [PokePedia](https://github.com/crislaez/Pokepedia)
