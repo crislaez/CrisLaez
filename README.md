@@ -88,14 +88,6 @@ I am a Front-end developer, I have a higher degree in application development si
 <img src="https://github.com/crislaez/UniteDex/blob/master/src/assets/images/unitedex_10.jpg" alt="unitedex_10" width="200"/>
 </div>
 
-### [Gamedex](https://github.com/crislaez/Gamedex)
-
-<div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
-<img src="https://github.com/crislaez/Gamedex/blob/master/src/assets/images/gamedex_1.jpg" alt="gamedex_1" width="200"/>
-<img src="https://github.com/crislaez/Gamedex/blob/master/src/assets/images/gamedex_2.jpg" alt="gamedex_2" width="200"/>
-<img src="https://github.com/crislaez/Gamedex/blob/master/src/assets/images/gamedex_3.jpg" alt="gamedex_3" width="200"/>
-</div>
-
 ### [AnimeFind](https://github.com/crislaez/animeFInd)
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
