@@ -40,6 +40,14 @@ I am a Front-end developer, I have a higher degree in application development si
 <img src="https://github.com/crislaez/Criptoin/blob/master/src/assets/images/criptoin_4.jpg" alt="criptoin_4" width="200"/>
 </div>
 
+### [Gods word](https://github.com/crislaez/Gods_word)
+
+<div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
+<img src="https://github.com/crislaez/Gods_word/blob/master/src/assets/images/gods_word_1.png" alt="gods_word_1" width="200"/>
+<img src="https://github.com/crislaez/Gods_word/blob/master/src/assets/images/gods_word_2.png" alt="gods_word_2" width="200"/>
+<img src="https://github.com/crislaez/Gods_word/blob/master/src/assets/images/gods_word_3.png" alt="gods_word_3" width="200"/>
+</div>
+
 ### [Euskobus](https://github.com/crislaez/Euskobus)
 
 <div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
@@ -96,13 +104,6 @@ I am a Front-end developer, I have a higher degree in application development si
 <img src="https://github.com/crislaez/animeFind/blob/master/src/assets/images/animeFind_3.jpg" alt="animeFind_3" width="200"/>
 </div>
 
-### [Mi Biblia](https://github.com/crislaez/MyBible)
-
-<div style="width:100%;display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-around">
-<img src="https://github.com/crislaez/MyBible/blob/master/src/assets/images/foto_proyecto_3.PNG" alt="miBilia_1" width="200"/>
-<img src="https://github.com/crislaez/MyBible/blob/master/src/assets/images/foto_proyecto_4.PNG" alt="miBilia_2" width="200"/>
-<img src="https://github.com/crislaez/MyBible/blob/master/src/assets/images/foto_proyecto_1.PNG" alt="miBilia_3" width="200"/>
-</div>
 
 ### [Pokemon Tcg Pro](https://github.com/crislaez/PokemonTcgPro)
 
